@@ -52,8 +52,9 @@ This section covers various tools and techniques I have used throughout my HTB j
 
 Below is a list of HTB boxes I have completed along with links to their respective writeups:
 
-- [BoxName1](Boxes/BoxName1/README.md)
-- ...
+| Box name |                  Solution                   |
+| :------: | :-----------------------------------------: |
+|   Meow   | [Here](boxes/Meow%20-%20Tier%200/README.md) |
 
 Each box directory contains a detailed writeup including the steps taken to compromise the machine, tools used, and any notable challenges encountered.
 
