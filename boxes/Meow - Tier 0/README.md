@@ -22,7 +22,7 @@ telnet 10.129.7.236
 
 ![telnet](pics/telnet.png)
 
-**list all contents**
+**List all contents**
 
 ```bash
 ls
