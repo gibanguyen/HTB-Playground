@@ -5,7 +5,6 @@ Welcome to my Hack The Box (HTB) practice repository! This repository contains m
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Directory Structure](#directory-structure)
 - [Tools and Techniques](#tools-and-techniques)
 - [Boxes Completed](#boxes-completed)
 - [Resources](#resources)
@@ -14,29 +13,6 @@ Welcome to my Hack The Box (HTB) practice repository! This repository contains m
 ## Introduction
 
 Hack The Box is an online platform that allows you to test your penetration testing skills and exchange ideas and methodologies with other members of the cybersecurity community. This repository is a collection of my experiences, solutions, and learnings from the HTB challenges and boxes I've worked on.
-
-## Directory Structure
-
-```
-HTB-Practice/
-├── boxes/
-│ ├── boxName1/
-│ │ └── README.md
-│ └── ...
-├── challenges/
-│ ├── web/
-│ │ ├── webName1/
-│ │ │ ├── README.md (write up)
-│ │ │ └── source code (if has)
-│ │ └── ...
-│ ├── forensic/
-│ └── ...
-├── resources/
-│ ├── Cheatsheets/
-│ ├── Writeups/
-│ └── ...
-└── README.md
-```
 
 ## Tools and Techniques
 
