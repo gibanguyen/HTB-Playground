@@ -28,12 +28,19 @@ This section covers various tools and techniques I have used throughout my HTB j
 
 Below is a list of HTB boxes I have completed along with links to their respective writeups:
 
-| Box name  |                     Solution                     |
+| Tier 0 |                  Solution                   |
+| :----: | :-----------------------------------------: |
+|  Meow  | [Here](boxes/Meow%20-%20Tier%200/README.md) |
+|  Fawn  | [Here](boxes/Fawn%20-%20Tier%200/README.md) |
+
+| Tier 1 |                   Solution                   |
+| :----: | :------------------------------------------: |
+| Three  | [Here](boxes/Three%20-%20Tier%201/README.md) |
+
+|  Tier 2   |                     Solution                     |
 | :-------: | :----------------------------------------------: |
-|   Meow    |   [Here](boxes/Meow%20-%20Tier%200/README.md)    |
-|   Fawn    |   [Here](boxes/Fawn%20-%20Tier%200/README.md)    |
-|   Three   |   [Here](boxes/Three%20-%20Tier%201/README.md)   |
 | Archetype | [Here](boxes/Archetype%20-%20Tier%202/README.md) |
+|  Oopsie   |  [Here](boxes/Oopsie%20-%20Tier%202/README.md)   |
 
 Each box directory contains a detailed writeup including the steps taken to compromise the machine, tools used, and any notable challenges encountered.
 
